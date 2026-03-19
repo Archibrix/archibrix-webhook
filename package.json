@@ -1,0 +1,9 @@
+{
+  "name": "archibrix-webhook",
+  "version": "1.0.0",
+  "description": "Archibrix automation webhook - Formspree → Trello + Google Drive",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
